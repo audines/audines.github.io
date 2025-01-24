@@ -6,7 +6,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Mohammad Rafiqul Islam"
+  title: "Aude Ines Mbonda Tiekwe"
   favicon: "/_assets/images/favicon.ico"
   open-graph: true
   bread-crumbs: true
@@ -17,7 +17,7 @@ website:
     tools-collapse: true
     pinned: true
     logo: "/_assets/images/fsu-logo.png"
-    logo-alt: "Florida State University"
+    logo-alt: "Stellenbosch University"
     logo-href: index.qmd
     right:
       - href: index.qmd
@@ -37,7 +37,7 @@ website:
           - text: "All Other Blogs"
             href: blog.qmd
       - icon: linkedin
-        href: https://www.linkedin.com/in/
+        href:https://www.linkedin.com/in/inesmbonda/
         target: _blank
       - icon: github
         href: "https://github.com/audines"
@@ -47,20 +47,20 @@ website:
       
   page-footer: 
     background: "#782F40"
-    left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
+  #  left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
     center:
-      - text: "Copyright 2024 @ Rafiq Islam"
+      - text: "Copyright 2025 @ Aude Ines "
       - text: "License"
         href: license.txt
     right: 
       - icon: twitter 
-        href: https://twitter.com/rafiqr35 
+        href: https://x.com/InesMbonda
         target: _blank
       - icon: youtube
-        href: https://youtube.com/@quanttube
+       # href: https://youtube.com/@quanttube
         target: _blank
       - icon: envelope
-        href: mailto:rafiqfsu@gmail.com?subject&body
+        href: mailto:ines@aims.ac.za?subject&body
         target: _blank
       
 
