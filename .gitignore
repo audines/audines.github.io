@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+
+
+
+/.luarc.json
+
+share.ipynb
+_codes/
