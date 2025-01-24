@@ -47,7 +47,7 @@ website:
   
   page-footer: 
     background: "#782F40"
-  #  left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
+  left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
     center:
       - text: "Copyright 2025 @ Aude Ines "
       - text: "License"
@@ -57,7 +57,7 @@ website:
         href: https://x.com/InesMbonda
         target: _blank
       - icon: youtube
-       # href: https://youtube.com/@quanttube
+        href: https://youtube.com/@quanttube
         target: _blank
       - icon: envelope
         href: mailto:ines@aims.ac.za?subject&body
