@@ -77,7 +77,6 @@ adsense:
 filters:
   - adsense
   - quarto-version.lua
-  
 format:
   html:
     theme: 
