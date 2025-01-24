@@ -2,13 +2,13 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878992848042528"
      crossorigin="anonymous"></script>  
 
-<h2> Rafiq Islam</h2>  
+<h2> Aude Ines Mbonda Tiekwe</h2>  
 <p style="text-align: justify"><img align="right" src='/_assets/images/profile.png' class='oval-image' alt='Profile Picture' style='align-right; margin-left: 25px; margin-bottom: 10px;'><br>
     Ph.D. Candidate in Mathematics  
     <a href='https://fsu.edu' target='_blank' style='text-decoration:none'>Florida State University</a><br>
     <br>
     <span style='font-size: 1.1em; font-weight: bold; margin-top: 50px; margin-bottom: 50px;'>Contact</span>  
-    Email: <a href="mailto:rislam@fsu.edu" style="text-decoration:none"> rislam@fsu.edu</a>  
+    Email: <a href="mailto:ines@aims.ac.za" style="text-decoration:none"> ines@aims.ac.za</a>  
     Office: <a href="https://maps.app.goo.gl/p25RvKR6jiecRYsG9" target="_blank" style="text-decoration:none"> James J. Love Building: Room 331A</a>  
     Office Hours: <br>
     Monday and Wednesday 12:00 pm -1:00 pm <br>
@@ -20,7 +20,8 @@
 ---  
 
 <p style="text-align: justify">    
-    I am currently a Ph.D. candidate and a Graduate Teaching Assistant (GTA) in the Mathematics Department at Florida State University. I am actively involved in research in the area of Data Science, Machine Learning, and Financial Mathematics under the supervision of professor <a href="https://www.math.fsu.edu/DepartmentNews/Articles/Fac_Zhu.math" style="text-decoration:none" target="_blank"> Lingjiong Zhu</a>.<br>
+    I am  a PostDoctoral Researcher at the African Institute for Mathematical Sciences.
+#I am actively involved in research in the area of Data Science, Machine Learning, and Financial Mathematics under the supervision of #professor <a href="https://www.math.fsu.edu/DepartmentNews/Articles/Fac_Zhu.math" style="text-decoration:none" target="_blank"> #Lingjiong Zhu</a>.<br>
     <br>
-     My academic journey has been both diverse and enriching, spanning multiple institutions and fields of study. Before joining FSU, I obtained a master’s degree in Mathematics from Youngstown State University in Ohio, USA. Prior to that, I completed my undergraduate degree in Mathematics at the University of Dhaka (DU), Bangladesh, followed by a one-year integrated master’s program in Applied Mathematics at the same institution.
+     My academic journey has been both diverse and enriching, spanning multiple institutions. I obtained a master’s degree in Mathematics Sciences from the African Institute for Mathematical sciences. Prior to that, I completed my undergraduate degree in Applied Mathematics at the University of Douala, Cameroon, followed by a master degree in Financial managemnent from Amity University, India.
 </p>  
