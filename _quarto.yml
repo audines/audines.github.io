@@ -17,7 +17,7 @@ website:
     tools-collapse: true
     pinned: true
     logo: "/_assets/images/fsu-logo.png"
-    logo-alt: "Stellenbosch University"
+    logo-alt: "Florida State University"
     logo-href: index.qmd
     right:
       - href: index.qmd
@@ -40,7 +40,7 @@ website:
         href: https://www.linkedin.com/in/mohammad-rafiqul-islam/
         target: _blank
       - icon: github
-        href: "https://github.com/audines"
+        href: "https://github.com/mrislambd"
         target: _blank
       
       
@@ -49,18 +49,18 @@ website:
     background: "#782F40"
     left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
     center:
-      - text: "Copyright 2025 @ Aude Ines Mbonda"
+      - text: "Copyright 2024 @ Rafiq Islam"
       - text: "License"
         href: license.txt
     right: 
       - icon: twitter 
-        href: https://twitter.com/InesMbonda 
+        href: https://twitter.com/rafiqr35 
         target: _blank
       - icon: youtube
         href: https://youtube.com/@quanttube
         target: _blank
       - icon: envelope
-        href: mailto:ines@aims.ac.za?subject&body
+        href: mailto:rafiqfsu@gmail.com?subject&body
         target: _blank
       
 
@@ -100,3 +100,5 @@ format:
     anchor-sections: true
     smooth-scroll: true
     toc-location: left
+    
+    
