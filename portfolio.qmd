@@ -30,19 +30,17 @@ listing:
 ## Data Science and Machine Learning Projects  
 
 
-
 ::: {#ds-projects}  
 :::  
 
 
-
-## Software, Package, and Development  
+## Software Development  
 
 ::: {#spd-projects}  
 :::  
 
 
-## Teaching  
+## My services 
 
 
 ::: {#tcng}
