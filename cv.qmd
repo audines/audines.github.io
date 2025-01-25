@@ -70,7 +70,6 @@ cv:
 
 - <a href="/talks/2023-11-20-candi.qmd" style="text-decoration:none"> The Heavy-Tail Phenomenon in Decentralized Stochastic Gradient Descent</a>  
   November 20, 2023  
-  Presentation at James J Love Building, Florida State University, Tallahassee, Florida  
 
   
 ## Teaching
@@ -79,7 +78,6 @@ cv:
  
 ## Awards and Affiliations
 ### Awards  
-- Bettye Anne Busbee Case Graduate Fellowship & Doctoral Mentorship Recognition 2024  
 
 
 ### Affiliations  
