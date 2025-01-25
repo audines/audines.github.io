@@ -30,10 +30,10 @@ listing:
   <tbody>
     <tr>
       <td>
-        <a href='https://scholar.google.com/citations?user=gTz5r68AAAAJ&hl=en' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/gs.png' height='15' width='15' alt='Google Scholar' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> Google Scholar</span></a>
+        <a href='https://scholar.google.com.br/citations?view_op=new_articles&hl=en&imq=Inès+Mbonda#' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/gs.png' height='15' width='15' alt='Google Scholar' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> Google Scholar</span></a>
       </td>
       <td>
-        <a href='https://www.researchgate.net/profile/Mohammad-Rafiqul-Islam-5' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/rg.png' height='15' width='15' alt='ResearchGate' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> ResearchGate</span></a>
+        <a href='https://www.researchgate.net/profile/Aude-Ines-Mbonda-Tiekwe?ev=hdr_xprf' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/rg.png' height='15' width='15' alt='ResearchGate' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> ResearchGate</span></a>
       </td>
       <td>
         <a href='https://orcid.org/0000-0002-4376-8971' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/orcid.png' height='15' width='15' alt='Orcid' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> Orcid</span></a>
@@ -43,8 +43,6 @@ listing:
 </table>
 ```
 
-- <a href="/publication/pub3/index.qmd" target="_blank" style="text-decoration:none">Generalized EXTRA stochastic gradient Langevin dynamics</a>  
-  Mert, Gurbuzbalaban; Islam, Mohammad Rafiqul; Wang, Xiaoyu; Zhu, Lingjiong  (2024) "Generalized EXTRA stochastic gradient Langevin dynamics." *arXiv preprint arXiv.2412.01993*
 
 
 ## Course Projects  
