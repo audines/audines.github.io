@@ -6,7 +6,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Aude Ines Mbonda Tiekwe"
+  title: "Aude Inès Mbonda Tiekwe"
   favicon: "/_assets/images/favicon.ico"
   open-graph: true
   bread-crumbs: true
@@ -17,7 +17,7 @@ website:
     tools-collapse: true
     pinned: true
     logo: "/_assets/images/fsu-logo.png"
-    logo-alt: "Florida State University"
+    logo-alt: "Stellenbosch University"
     logo-href: index.qmd
     right:
       - href: index.qmd
@@ -30,17 +30,17 @@ website:
         text: CV
       - text: Blog
         menu: 
-          - text: "Data Science and Machine Learning"
+          - text: "Basics Statistics"
             href: posts/machinelearning/index.qmd
-          - text: "Job and Intern"
+          - text: "Career in Statistics"
             href: posts/jobandintern/index.qmd
-          - text: "All Other Blogs"
+          - text: "From PhD to Industry"
             href: blog.qmd
       - icon: linkedin
-        href: https://www.linkedin.com/in/mohammad-rafiqul-islam/
+        href: https://www.linkedin.com/in/inesmbonda/
         target: _blank
       - icon: github
-        href: "https://github.com/mrislambd"
+        href: "https://github.com/audines"
         target: _blank
       
       
@@ -49,18 +49,18 @@ website:
     background: "#782F40"
     left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
     center:
-      - text: "Copyright 2024 @ Rafiq Islam"
+      - text: "Copyright 2025 @ Aude Inès Mbonda"
       - text: "License"
         href: license.txt
     right: 
       - icon: twitter 
-        href: https://twitter.com/rafiqr35 
+        href: https://twitter.com/InesMbonda
         target: _blank
       - icon: youtube
         href: https://youtube.com/@quanttube
         target: _blank
       - icon: envelope
-        href: mailto:rafiqfsu@gmail.com?subject&body
+        href: mailto:ines@aims.edu.gh?subject&body
         target: _blank
       
 
