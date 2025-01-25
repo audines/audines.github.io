@@ -36,7 +36,7 @@ listing:
         <a href='https://www.researchgate.net/profile/Aude-Ines-Mbonda-Tiekwe?ev=hdr_xprf' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/rg.png' height='15' width='15' alt='ResearchGate' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> ResearchGate</span></a>
       </td>
       <td>
-        <a href='https://orcid.org/0000-0002-4376-8971' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/orcid.png' height='15' width='15' alt='Orcid' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> Orcid</span></a>
+        <a href='https://orcid.org/my-orcid?orcid=0000-0001-8780-2222' target='_blank' style='display: inline-block; vertical-align: middle;'><img src='/_assets/images/orcid.png' height='15' width='15' alt='Orcid' style='margin-right: 5px;'></span><span style='display: inline-block; vertical-align: middle;'> Orcid</span></a>
       </td>
     </tr>
   </tbody>
