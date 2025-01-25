@@ -44,11 +44,10 @@ listing:
 ```
 
 
-
 ## Course Projects  
 
 - <a href="https://www.academia.edu/13322836/Study_of_Runge_Kutta_Method_of_Higher_orders_and_its_Applications" target="_blank" style="text-decoration:none">Study of Runge-Kutta Method of Higher orders and its Applications</a>  
-  Advisor: <a href="http://appliedmath.du.ac.bd/details-ofdr-md-abdus-samad/" target="_blank" style="text-decoration:none">Dr. Md. Abdus Samad </a>
+  Advisor: <a href="" target="_blank" style="text-decoration:none">Dr. </a>
 
   <div style="text-align: justify">
     This project is concerned with the study 
