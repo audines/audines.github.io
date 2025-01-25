@@ -9,7 +9,7 @@
 <meta name="author" content="Rafiq Islam">
 <meta name="dcterms.date" content="2022-08-30">
 
-<title>Feature Selection: A linear regression approach to find the impact of the features of e-commerce sales data – Mohammad Rafiqul Islam</title>
+<title>Feature Selection: A linear regression approach to find the impact of the features of e-commerce sales data – Aude Ines Mbonda Tiekwe</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -124,13 +124,13 @@ gtag('config', 'G-Z5NP67GHFC', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Feature Selection: A linear regression approach to find the impact of the features of e-commerce sales data – Mohammad Rafiqul Islam">
-<meta property="og:image" content="https://mrislambd.github.io/codepages/ecommerce/index_files/figure-html/cell-5-output-1.png">
-<meta property="og:site_name" content="Mohammad Rafiqul Islam">
+<meta property="og:title" content="Feature Selection: A linear regression approach to find the impact of the features of e-commerce sales data – Aude Ines Mbonda Tiekwe">
+<meta property="og:image" content="https://audines.github.io/codepages/ecommerce/index_files/figure-html/cell-5-output-1.png">
+<meta property="og:site_name" content="Aude Ines Mbonda Tiekwe">
 <meta property="og:image:height" content="928">
 <meta property="og:image:width" content="1490">
-<meta name="twitter:title" content="Feature Selection: A linear regression approach to find the impact of the features of e-commerce sales data – Mohammad Rafiqul Islam">
-<meta name="twitter:image" content="https://mrislambd.github.io/codepages/ecommerce/index_files/figure-html/cell-5-output-1.png">
+<meta name="twitter:title" content="Feature Selection: A linear regression approach to find the impact of the features of e-commerce sales data – Aude Ines Mbonda Tiekwe">
+<meta name="twitter:image" content="https://audines.github.io/codepages/ecommerce/index_files/figure-html/cell-5-output-1.png">
 <meta name="twitter:image-height" content="928">
 <meta name="twitter:image-width" content="1490">
 <meta name="twitter:card" content="summary_large_image">
@@ -144,10 +144,10 @@ gtag('config', 'G-Z5NP67GHFC', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../codepages/ecommerce/index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../_assets/images/fsu-logo.png" alt="Florida State University" class="navbar-logo">
+    <img src="../../_assets/images/fsu-logo.png" alt="Stellenbosch University" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="../../codepages/ecommerce/index.html">
-    <span class="navbar-title">Mohammad Rafiqul Islam</span>
+    <span class="navbar-title">Aude Ines Mbonda Tiekwe</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -197,7 +197,7 @@ gtag('config', 'G-Z5NP67GHFC', { 'anonymize_ip': true});
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/mrislambd" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/audines" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -279,7 +279,7 @@ gtag('config', 'G-Z5NP67GHFC', { 'anonymize_ip': true});
 
 <section id="load-the-data" class="level2">
 <h2 class="anchored" data-anchor-id="load-the-data">Load the data</h2>
-<div id="8bed5873" class="cell" data-execution_count="1">
+<div id="ca297a7f" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> seaborn <span class="im">as</span> sns</span>
@@ -373,7 +373,7 @@ gtag('config', 'G-Z5NP67GHFC', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="eda">EDA</h2>
 <section id="descriptive-statistics" class="level3">
 <h3 class="anchored" data-anchor-id="descriptive-statistics">Descriptive Statistics</h3>
-<div id="8aa84998" class="cell" data-execution_count="2">
+<div id="bafed911" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>salesdata.describe()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display" data-execution_count="2">
 <div>
@@ -461,7 +461,7 @@ gtag('config', 'G-Z5NP67GHFC', { 'anonymize_ip': true});
 </div>
 </div>
 </div>
-<div id="7b70d45a" class="cell" data-execution_count="3">
+<div id="20e5e35b" class="cell" data-execution_count="3">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>salesdata.info()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>&lt;class 'pandas.core.frame.DataFrame'&gt;
@@ -484,7 +484,7 @@ memory usage: 31.4+ KB</code></pre>
 </section>
 <section id="visualization" class="level3">
 <h3 class="anchored" data-anchor-id="visualization">Visualization</h3>
-<div id="c1e5bb60" class="cell" data-execution_count="4">
+<div id="cbf7bb12" class="cell" data-execution_count="4">
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>fig, (ax1, ax2) <span class="op">=</span> plt.subplots(<span class="dv">1</span>, <span class="dv">2</span>, figsize<span class="op">=</span>(<span class="fl">7.9</span>, <span class="dv">5</span>))</span>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Scatter plot with regression line for 'Time on Website' vs 'Yearly Amount Spent'</span></span>
@@ -521,7 +521,7 @@ memory usage: 31.4+ KB</code></pre>
 </div>
 <p>So, from this plot, we see that <code>Time on Website</code> has no significant trend or pattern on <code>Yearly Amount Spent</code> variable. However, <code>Time on App</code> seems to have a linear relationship on <code>Yearly Amount Spent</code>.</p>
 <p>Next, we see the relationship between <code>Avg. Session Length</code> vs <code>Yearly Amount Spent</code>, and <code>Length of Membership</code> vs <code>Yearly Amount Spent</code>.</p>
-<div id="65e02b36" class="cell" data-execution_count="5">
+<div id="29e9ab4b" class="cell" data-execution_count="5">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>fig, (ax1, ax2) <span class="op">=</span> plt.subplots(<span class="dv">1</span>, <span class="dv">2</span>, figsize<span class="op">=</span>(<span class="fl">7.9</span>, <span class="dv">5</span>))</span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Scatter plot with regression line for 'Time on Website' vs 'Yearly Amount Spent'</span></span>
@@ -557,7 +557,7 @@ memory usage: 31.4+ KB</code></pre>
 </div>
 </div>
 <p>Both of these features have impact on the dependent variable. However, <code>Length of Membership</code> seems to have the most significant impact on <code>Yearly Amount Spent</code>.</p>
-<div id="d3ef2d56" class="cell" data-execution_count="6">
+<div id="0d96c663" class="cell" data-execution_count="6">
 <div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>sns.pairplot(salesdata)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div>
@@ -573,7 +573,7 @@ memory usage: 31.4+ KB</code></pre>
 <h2 class="anchored" data-anchor-id="modeling">Modeling</h2>
 <section id="training" class="level3">
 <h3 class="anchored" data-anchor-id="training">Training</h3>
-<div id="36c4f1ee" class="cell" data-execution_count="7">
+<div id="8c97ebca" class="cell" data-execution_count="7">
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.linear_model <span class="im">import</span> LinearRegression</span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.model_selection <span class="im">import</span> train_test_split</span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -598,7 +598,7 @@ memory usage: 31.4+ KB</code></pre>
 </section>
 <section id="testing" class="level3">
 <h3 class="anchored" data-anchor-id="testing">Testing</h3>
-<div id="1084574d" class="cell" data-execution_count="8">
+<div id="ec05c142" class="cell" data-execution_count="8">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>pred <span class="op">=</span> linreg.predict(X_test)</span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>plt.scatter(y_test, pred)</span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>plt.xlabel(<span class="st">'y test'</span>)</span>
@@ -615,7 +615,7 @@ memory usage: 31.4+ KB</code></pre>
 </section>
 <section id="model-evaluation" class="level3">
 <h3 class="anchored" data-anchor-id="model-evaluation">Model Evaluation</h3>
-<div id="38167c9f" class="cell" data-execution_count="9">
+<div id="1f531e15" class="cell" data-execution_count="9">
 <div class="sourceCode cell-code" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn <span class="im">import</span> metrics</span>
 <span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">'MAE'</span>, metrics.mean_absolute_error(y_test, pred))</span>
@@ -632,7 +632,7 @@ R-squared: 0.9845789607829495</code></pre>
 </section>
 <section id="residual-analysis" class="level3">
 <h3 class="anchored" data-anchor-id="residual-analysis">Residual Analysis</h3>
-<div id="cea0e757" class="cell" data-execution_count="10">
+<div id="cefc5dc4" class="cell" data-execution_count="10">
 <div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>sns.displot(y_test<span class="op">-</span>pred, bins<span class="op">=</span> <span class="dv">60</span>, kde<span class="op">=</span><span class="va">True</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div>
@@ -646,7 +646,7 @@ R-squared: 0.9845789607829495</code></pre>
 </section>
 <section id="conclusion" class="level2">
 <h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<div id="e03b73a6" class="cell" data-execution_count="11">
+<div id="4be0b063" class="cell" data-execution_count="11">
 <div class="sourceCode cell-code" id="cb14"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>coeff <span class="op">=</span> pd.DataFrame({</span>
 <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>    <span class="st">'Feature'</span>: [<span class="st">'Intercept'</span>] <span class="op">+</span> <span class="bu">list</span>(X.columns), </span>
 <span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>    <span class="st">'Coefficient'</span>: [linreg.intercept_] <span class="op">+</span> <span class="bu">list</span>(linreg.coef_) </span>
@@ -708,13 +708,13 @@ R-squared: 0.9845789607829495</code></pre>
   title = {Feature {Selection:} {A} Linear Regression Approach to Find
     the Impact of the Features of e-Commerce Sales Data},
   date = {2022-08-30},
-  url = {https://mrislambd.github.io/codepages/ecommerce/},
+  url = {https://audines.github.io/codepages/ecommerce/},
   langid = {en}
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2022" class="csl-entry quarto-appendix-citeas" role="listitem">
 Islam, Rafiq. 2022. <span>“Feature Selection: A Linear Regression
 Approach to Find the Impact of the Features of e-Commerce Sales
-Data.”</span> August 30, 2022. <a href="https://mrislambd.github.io/codepages/ecommerce/">https://mrislambd.github.io/codepages/ecommerce/</a>.
+Data.”</span> August 30, 2022. <a href="https://audines.github.io/codepages/ecommerce/">https://audines.github.io/codepages/ecommerce/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -1001,7 +1001,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/mrislambd\.github\.io\/");
+      var filterRegex = new RegExp("https:\/\/audines\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -1509,7 +1509,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Copyright 2024 @ Rafiq Islam
+ Copyright 2025 @ Aude Ines Mbonda
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="../../license.txt">
@@ -1521,7 +1521,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/rafiqr35" target="_blank">
+    <a class="nav-link" href="https://twitter.com/InesMbonda" target="_blank">
       <i class="bi bi-twitter" role="img">
 </i> 
     </a>
@@ -1533,7 +1533,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="mailto:rafiqfsu@gmail.com?subject&amp;body" target="_blank">
+    <a class="nav-link" href="mailto:ines@aims.ac.za?subject&amp;body" target="_blank">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>

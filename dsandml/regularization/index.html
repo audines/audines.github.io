@@ -9,7 +9,7 @@
 <meta name="author" content="Rafiq Islam">
 <meta name="dcterms.date" content="2024-09-24">
 
-<title>Model Fine Tuning: Regularization – Mohammad Rafiqul Islam</title>
+<title>Model Fine Tuning: Regularization – Aude Ines Mbonda Tiekwe</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -182,15 +182,15 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Model Fine Tuning: Regularization – Mohammad Rafiqul Islam">
+<meta property="og:title" content="Model Fine Tuning: Regularization – Aude Ines Mbonda Tiekwe">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://mrislambd.github.io/dsandml/regularization/rg.png">
-<meta property="og:site_name" content="Mohammad Rafiqul Islam">
+<meta property="og:image" content="https://audines.github.io/dsandml/regularization/rg.png">
+<meta property="og:site_name" content="Aude Ines Mbonda Tiekwe">
 <meta property="og:image:height" content="480">
 <meta property="og:image:width" content="672">
-<meta name="twitter:title" content="Model Fine Tuning: Regularization – Mohammad Rafiqul Islam">
+<meta name="twitter:title" content="Model Fine Tuning: Regularization – Aude Ines Mbonda Tiekwe">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://mrislambd.github.io/dsandml/regularization/rg.png">
+<meta name="twitter:image" content="https://audines.github.io/dsandml/regularization/rg.png">
 <meta name="twitter:image-height" content="480">
 <meta name="twitter:image-width" content="672">
 <meta name="twitter:card" content="summary_large_image">
@@ -204,10 +204,10 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../dsandml/regularization/index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../_assets/images/fsu-logo.png" alt="Florida State University" class="navbar-logo">
+    <img src="../../_assets/images/fsu-logo.png" alt="Stellenbosch University" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="../../dsandml/regularization/index.html">
-    <span class="navbar-title">Mohammad Rafiqul Islam</span>
+    <span class="navbar-title">Aude Ines Mbonda Tiekwe</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -257,7 +257,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/mrislambd" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/audines" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -392,7 +392,7 @@ J(\theta) = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y_i})^2 + \lambda \sum_{j=1}^
 Selecting the optimal value of <span class="math inline">\(\lambda\)</span> is crucial. Typically, it’s done via cross-validation, where different values of <span class="math inline">\(\lambda\)</span> are tried, and the model is evaluated based on its performance on the validation set. The value that results in the best generalization is selected.
 </p>
 <p><span class="math inline">\(L_2\)</span> regularization shrinks the coefficients towards zero but doesn’t force them to be exactly zero, thus retaining all features in the model.</p>
-<div id="1518171c" class="cell" data-execution_count="1">
+<div id="4a36f570" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.linear_model <span class="im">import</span> Ridge,LinearRegression</span>
@@ -467,7 +467,7 @@ J(\theta) = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y_i})^2 + \lambda \sum_{j=1}^
 <li>The penalty is the absolute value of the coefficients instead of the squared value.</li>
 </ul>
 <p><span class="math inline">\(L_1\)</span> regularization has the effect of making some coefficients exactly zero, which means it can be used to reduce the number of features in the model.</p>
-<div id="db718e5d" class="cell" data-execution_count="2">
+<div id="e7752e69" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.linear_model <span class="im">import</span> Lasso</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f"Mean Squared Error (Linear Regression): </span><span class="sc">{</span>mse_linear<span class="sc">:.2f}</span><span class="ss">"</span>)</span>
@@ -626,7 +626,7 @@ When you want to prevent overfitting but don’t want feature elimination.
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1729555200000" data-listing-file-modified-sort="1737804589570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2300">
+<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1729555200000" data-listing-file-modified-sort="1737806468135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2300">
 <a href="../../dsandml/bayesianclassification/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -651,7 +651,7 @@ Tuesday, October 22, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1733097600000" data-listing-file-modified-sort="1737804589569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
+<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1733097600000" data-listing-file-modified-sort="1737806468135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
 <a href="../../dsandml/adaboost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -676,7 +676,7 @@ Monday, December 2, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="U3RhdGlzdGljcyUyQ0RhdGElMjBTY2llbmNlJTJDRGF0YSUyMEVuZ2luZWVyaW5nJTJDTWFjaGluZSUyMExlYXJuaW5nJTJDQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZQ==" data-listing-date-sort="1728518400000" data-listing-file-modified-sort="1737804589640" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
+<div class="g-col-1" data-index="2" data-categories="U3RhdGlzdGljcyUyQ0RhdGElMjBTY2llbmNlJTJDRGF0YSUyMEVuZ2luZWVyaW5nJTJDTWFjaGluZSUyMExlYXJuaW5nJTJDQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZQ==" data-listing-date-sort="1728518400000" data-listing-file-modified-sort="1737806468205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
 <a href="../../dsandml/naivebayes/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="../bayesianclassification/Bayeslearn.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -707,12 +707,12 @@ No matching items
   author = {Islam, Rafiq},
   title = {Model {Fine} {Tuning:} {Regularization}},
   date = {2024-09-24},
-  url = {https://mrislambd.github.io/dsandml/regularization/},
+  url = {https://audines.github.io/dsandml/regularization/},
   langid = {en}
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2024" class="csl-entry quarto-appendix-citeas" role="listitem">
 Islam, Rafiq. 2024. <span>“Model Fine Tuning: Regularization.”</span>
-September 24, 2024. <a href="https://mrislambd.github.io/dsandml/regularization/">https://mrislambd.github.io/dsandml/regularization/</a>.
+September 24, 2024. <a href="https://audines.github.io/dsandml/regularization/">https://audines.github.io/dsandml/regularization/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -999,7 +999,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/mrislambd\.github\.io\/");
+      var filterRegex = new RegExp("https:\/\/audines\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -1629,7 +1629,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Copyright 2024 @ Rafiq Islam
+ Copyright 2025 @ Aude Ines Mbonda
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="../../license.txt">
@@ -1641,7 +1641,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/rafiqr35" target="_blank">
+    <a class="nav-link" href="https://twitter.com/InesMbonda" target="_blank">
       <i class="bi bi-twitter" role="img">
 </i> 
     </a>
@@ -1653,7 +1653,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="mailto:rafiqfsu@gmail.com?subject&amp;body" target="_blank">
+    <a class="nav-link" href="mailto:ines@aims.ac.za?subject&amp;body" target="_blank">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>

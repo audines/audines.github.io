@@ -9,7 +9,7 @@
 <meta name="author" content="Rafiq Islam">
 <meta name="dcterms.date" content="2024-09-24">
 
-<title>Dimensionality Reduction: Principle Component Analysis (PCA) – Mohammad Rafiqul Islam</title>
+<title>Dimensionality Reduction: Principle Component Analysis (PCA) – Aude Ines Mbonda Tiekwe</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -182,15 +182,15 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Dimensionality Reduction: Principle Component Analysis (PCA) – Mohammad Rafiqul Islam">
+<meta property="og:title" content="Dimensionality Reduction: Principle Component Analysis (PCA) – Aude Ines Mbonda Tiekwe">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://mrislambd.github.io/dsandml/pca/pca.png">
-<meta property="og:site_name" content="Mohammad Rafiqul Islam">
+<meta property="og:image" content="https://audines.github.io/dsandml/pca/pca.png">
+<meta property="og:site_name" content="Aude Ines Mbonda Tiekwe">
 <meta property="og:image:height" content="576">
 <meta property="og:image:width" content="768">
-<meta name="twitter:title" content="Dimensionality Reduction: Principle Component Analysis (PCA) – Mohammad Rafiqul Islam">
+<meta name="twitter:title" content="Dimensionality Reduction: Principle Component Analysis (PCA) – Aude Ines Mbonda Tiekwe">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://mrislambd.github.io/dsandml/pca/pca.png">
+<meta name="twitter:image" content="https://audines.github.io/dsandml/pca/pca.png">
 <meta name="twitter:image-height" content="576">
 <meta name="twitter:image-width" content="768">
 <meta name="twitter:card" content="summary_large_image">
@@ -204,10 +204,10 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../dsandml/pca/index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../_assets/images/fsu-logo.png" alt="Florida State University" class="navbar-logo">
+    <img src="../../_assets/images/fsu-logo.png" alt="Stellenbosch University" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="../../dsandml/pca/index.html">
-    <span class="navbar-title">Mohammad Rafiqul Islam</span>
+    <span class="navbar-title">Aude Ines Mbonda Tiekwe</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -257,7 +257,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/mrislambd" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/audines" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -347,7 +347,7 @@ Principal Component Analysis (PCA) is a powerful technique used in machine learn
 <section id="what-is-principal-component-analysis-pca" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-principal-component-analysis-pca">What is Principal Component Analysis (PCA)?</h2>
 <p>Let’s start from the beginning. If we have a set of orthogonal basis vectors say <span class="math inline">\(\mathbf{u}=(u_1,u_2,\dots, u_p)\)</span> then <span class="math inline">\(u_i^Tu_j=\delta_{ij}\)</span> for <span class="math inline">\(1\le i,j \le m\)</span>. For example, consider <span class="math inline">\(u_1=\begin{bmatrix}1\\ 0\end{bmatrix}\)</span> and <span class="math inline">\(u_2=\begin{bmatrix}0\\1\end{bmatrix}\)</span></p>
-<div id="bf19139c" class="cell" data-execution_count="1">
+<div id="c16d04e0" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -482,7 +482,7 @@ E(\mathbf{u}) &amp; = \sum_{k=1}^{n} \left\|\sum_{i=d+1}^{p}(z^k\cdot u_i)u_i\ri
 <section id="pca-in-python-implementation-and-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="pca-in-python-implementation-and-visualization">PCA in Python: Implementation and Visualization</h2>
 <p>Now that we understand the theory behind PCA, let’s implement it in Python using the <code>sklearn</code> library and visualize the results.</p>
-<div id="00a5bd75" class="cell" data-execution_count="2">
+<div id="cb2f41e0" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
@@ -491,7 +491,7 @@ E(\mathbf{u}) &amp; = \sum_{k=1}^{n} \left\|\sum_{i=d+1}^{p}(z^k\cdot u_i)u_i\ri
 <span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.datasets <span class="im">import</span> load_iris</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>For this example, we will use the famous Iris dataset, which contains 4 features (sepal length, sepal width, petal length, and petal width) of 3 species of iris flowers.</p>
-<div id="c83fe4d9" class="cell" data-execution_count="3">
+<div id="e318d8f5" class="cell" data-execution_count="3">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Load the Iris dataset</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>iris <span class="op">=</span> load_iris()</span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>X <span class="op">=</span> iris.data</span>
@@ -502,7 +502,7 @@ E(\mathbf{u}) &amp; = \sum_{k=1}^{n} \left\|\sum_{i=d+1}^{p}(z^k\cdot u_i)u_i\ri
 <span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>X_scaled <span class="op">=</span> scaler.fit_transform(X)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>We will reduce the data from 4 dimensions to 2 for visualization.</p>
-<div id="4635df95" class="cell" data-execution_count="4">
+<div id="ad49c38b" class="cell" data-execution_count="4">
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>pca <span class="op">=</span> PCA(n_components<span class="op">=</span><span class="dv">2</span>)</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>X_pca <span class="op">=</span> pca.fit_transform(X_scaled)</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -513,7 +513,7 @@ E(\mathbf{u}) &amp; = \sum_{k=1}^{n} \left\|\sum_{i=d+1}^{p}(z^k\cdot u_i)u_i\ri
 </div>
 <p>The explained variance ratio shows how much variance each principal component captures. In many cases, the first two components capture most of the variance.</p>
 <p>Let’s plot the Iris dataset using the first two principal components.</p>
-<div id="da9bb3be" class="cell" data-execution_count="5">
+<div id="a4d8a362" class="cell" data-execution_count="5">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">8</span>, <span class="dv">6</span>))</span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>colors <span class="op">=</span> [<span class="st">'red'</span>, <span class="st">'blue'</span>, <span class="st">'green'</span>]</span>
 <span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> i, color <span class="kw">in</span> <span class="bu">enumerate</span>(colors):</span>
@@ -591,7 +591,7 @@ E(\mathbf{u}) &amp; = \sum_{k=1}^{n} \left\|\sum_{i=d+1}^{p}(z^k\cdot u_i)u_i\ri
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1729555200000" data-listing-file-modified-sort="1737804589570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2300">
+<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1729555200000" data-listing-file-modified-sort="1737806468135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2300">
 <a href="../../dsandml/bayesianclassification/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -616,7 +616,7 @@ Tuesday, October 22, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1733097600000" data-listing-file-modified-sort="1737804589569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
+<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1733097600000" data-listing-file-modified-sort="1737806468135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
 <a href="../../dsandml/adaboost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -641,7 +641,7 @@ Monday, December 2, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="U3RhdGlzdGljcyUyQ0RhdGElMjBTY2llbmNlJTJDRGF0YSUyMEVuZ2luZWVyaW5nJTJDTWFjaGluZSUyMExlYXJuaW5nJTJDQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZQ==" data-listing-date-sort="1728518400000" data-listing-file-modified-sort="1737804589640" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
+<div class="g-col-1" data-index="2" data-categories="U3RhdGlzdGljcyUyQ0RhdGElMjBTY2llbmNlJTJDRGF0YSUyMEVuZ2luZWVyaW5nJTJDTWFjaGluZSUyMExlYXJuaW5nJTJDQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZQ==" data-listing-date-sort="1728518400000" data-listing-file-modified-sort="1737806468205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
 <a href="../../dsandml/naivebayes/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="../bayesianclassification/Bayeslearn.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -673,12 +673,12 @@ No matching items
   title = {Dimensionality {Reduction:} {Principle} {Component}
     {Analysis} {(PCA)}},
   date = {2024-09-24},
-  url = {https://mrislambd.github.io/dsandml/pca/},
+  url = {https://audines.github.io/dsandml/pca/},
   langid = {en}
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2024" class="csl-entry quarto-appendix-citeas" role="listitem">
 Islam, Rafiq. 2024. <span>“Dimensionality Reduction: Principle Component
-Analysis (PCA).”</span> September 24, 2024. <a href="https://mrislambd.github.io/dsandml/pca/">https://mrislambd.github.io/dsandml/pca/</a>.
+Analysis (PCA).”</span> September 24, 2024. <a href="https://audines.github.io/dsandml/pca/">https://audines.github.io/dsandml/pca/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -965,7 +965,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/mrislambd\.github\.io\/");
+      var filterRegex = new RegExp("https:\/\/audines\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -1602,7 +1602,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Copyright 2024 @ Rafiq Islam
+ Copyright 2025 @ Aude Ines Mbonda
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="../../license.txt">
@@ -1614,7 +1614,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/rafiqr35" target="_blank">
+    <a class="nav-link" href="https://twitter.com/InesMbonda" target="_blank">
       <i class="bi bi-twitter" role="img">
 </i> 
     </a>
@@ -1626,7 +1626,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="mailto:rafiqfsu@gmail.com?subject&amp;body" target="_blank">
+    <a class="nav-link" href="mailto:ines@aims.ac.za?subject&amp;body" target="_blank">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>

@@ -5,16 +5,16 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Mohammad Rafiqul Islam</title>
-<link>https://mrislambd.github.io/blog.html</link>
-<atom:link href="https://mrislambd.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<title>Aude Ines Mbonda Tiekwe</title>
+<link>https://audines.github.io/blog.html</link>
+<atom:link href="https://audines.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
 <lastBuildDate>Wed, 23 Oct 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>বাংলা ভাষায় আমার লেখা || My Blog in Benglali Language</title>
   <dc:creator>মোহাম্মদ রকিবুল ইসলাম</dc:creator>
-  <link>https://mrislambd.github.io/posts/bengalitrial/</link>
+  <link>https://audines.github.io/posts/bengalitrial/</link>
   <description><![CDATA[ 
 
 
@@ -34,7 +34,7 @@
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1737804588931" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1737806467489" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../../banglablog/welcomepost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <!-- img(9CEB782EFEE6)[progressive=false, height=150px]:listing:banglablog/welcomepost/index.html -->
@@ -54,7 +54,7 @@
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1737805498198">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1737807360532">
 <a href="../../banglablog/welcomepost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -72,21 +72,21 @@
 No matching items
 </div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <guid>https://mrislambd.github.io/posts/bengalitrial/</guid>
+  <guid>https://audines.github.io/posts/bengalitrial/</guid>
   <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/bengalitrial/ben.svg" medium="image" type="image/svg+xml"/>
+  <media:content url="https://audines.github.io/posts/bengalitrial/ben.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>Data Science &amp; Machine Learning Basics</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/machinelearning/</link>
+  <link>https://audines.github.io/posts/machinelearning/</link>
   <description><![CDATA[ 
 
 
 
 
 <p align="center">
-<img src="https://mrislambd.github.io/_assets/images/uc.jpeg" alt="Post under construction" width="400" height="400">
+<img src="https://audines.github.io/_assets/images/uc.jpeg" alt="Post under construction" width="400" height="400">
 </p>
 <p style="text-align: justify">
 This page is my personal repository of most common and useful machine learning algorithms using Python and other data science tricks and tips.
@@ -530,11 +530,11 @@ This page is my personal repository of most common and useful machine learning a
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="0" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -555,11 +555,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="1" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -580,11 +580,11 @@ Wednesday, July 17, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNTdG9jaGFzdGljJTIwR3JhZGllbnQlMjBEZXNjZW50JTJDT3B0aW1pemF0aW9u" data-listing-date-sort="1726704000000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1473">
+<div class="g-col-1" data-index="2" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNTdG9jaGFzdGljJTIwR3JhZGllbnQlMjBEZXNjZW50JTJDT3B0aW1pemF0aW9u" data-listing-date-sort="1726704000000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1473">
 <a href="../../posts/sgd/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/sgd/sgd.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/sgd/sgd.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -613,14 +613,14 @@ No matching items
   <category>Data Science</category>
   <category>Machine Learning</category>
   <category>Artificial Intelligence</category>
-  <guid>https://mrislambd.github.io/posts/machinelearning/</guid>
+  <guid>https://audines.github.io/posts/machinelearning/</guid>
   <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://audines.github.io/posts/machinelearning/ml.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Implementation of Gradient Descent (GD) and Stochastic Gradient Descent (SGD)</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/sgd/</link>
+  <link>https://audines.github.io/posts/sgd/</link>
   <description><![CDATA[ 
 
 
@@ -629,7 +629,7 @@ No matching items
 <section id="gradient-descent" class="level2">
 <h2 class="anchored" data-anchor-id="gradient-descent">Gradient Descent</h2>
 <p style="text-align: justify">
-<img align="right" height="350" width="450" src="https://mrislambd.github.io/dsandml/multiplelinreg/gradient_descent.gif" alt="Collected from gbhat.com" style="margin-left: 20px; margin-bottom: 20px"> <br> GIF Credit: <a href="https://gbhat.com/machine_learning/gradient_descent_anim.html" target="_blank" style="text-decoration:none">gbhat.com</a><br>
+<img align="right" height="350" width="450" src="https://audines.github.io/dsandml/multiplelinreg/gradient_descent.gif" alt="Collected from gbhat.com" style="margin-left: 20px; margin-bottom: 20px"> <br> GIF Credit: <a href="https://gbhat.com/machine_learning/gradient_descent_anim.html" target="_blank" style="text-decoration:none">gbhat.com</a><br>
 <br> Gradient Descent is an optimization algorithm used to minimize the cost function. The cost function <img src="https://latex.codecogs.com/png.latex?f(%5Cbeta)"> measures how well a model with parameters <img src="https://latex.codecogs.com/png.latex?%5Cbeta"> fits the data. The goal is to find the values of <img src="https://latex.codecogs.com/png.latex?%5Cbeta"> that minimize this cost function. In terms of the iterative method, we want to find <img src="https://latex.codecogs.com/png.latex?%5Cbeta_%7Bk+1%7D"> and <img src="https://latex.codecogs.com/png.latex?%5Cbeta_k"> such that <img src="https://latex.codecogs.com/png.latex?f(%5Cbeta_%7Bk+1%7D)%3Cf(%5Cbeta_k)">. <br> <br> For a small change in <img src="https://latex.codecogs.com/png.latex?%5Cbeta">, we can approximate <img src="https://latex.codecogs.com/png.latex?f(%5Cbeta)"> using Taylor series expansion<br>
 <img src="https://latex.codecogs.com/png.latex?f(%5Cbeta_%7Bk+1%7D)=f(%5Cbeta_k%20+%5CDelta%5Cbeta_k)%5Capprox%20f(%5Cbeta_k)+%5Cnabla%20f(%5Cbeta_k)%5ET%20%5CDelta%20%5Cbeta_k+%5Ctext%7Bhigher-order%20terms%7D">
 </p>
@@ -677,7 +677,7 @@ Let’s imagine a hypothetical scenario, Walmart Inc.&nbsp;wants to explore thei
 <img src="https://latex.codecogs.com/png.latex?d=%5Csqrt%7B(x_1-x_2)%5E2+(y_1-y_2)%7D"></p>
 <p>Assume that <img src="https://latex.codecogs.com/png.latex?P=(x,y)"> is the coordinate of Walmart. So for a total of <img src="https://latex.codecogs.com/png.latex?n"> such points the total distance <img src="https://latex.codecogs.com/png.latex?D"> from the point <img src="https://latex.codecogs.com/png.latex?P"> is a function of two variable <img src="https://latex.codecogs.com/png.latex?x"> and <img src="https://latex.codecogs.com/png.latex?y"> of the following form</p>
 <p><img src="https://latex.codecogs.com/png.latex?D=f(x,y)=%5Csum_%7Bi=1%7D%5E%7Bn%7D%5Csqrt%7B(x-x_i)%5E2+(y-y_i)%5E2%7D"></p>
-<div id="df4c0013" class="cell" data-execution_count="1">
+<div id="e69a5111" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> numpy <span class="im" style="color: #00769E;
@@ -794,7 +794,7 @@ font-style: inherit;">'sgd.png'</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><a href="index_files/figure-html/cell-2-output-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://mrislambd.github.io/posts/sgd/index_files/figure-html/cell-2-output-1.png" width="406" height="396" class="figure-img"></a></p>
+<p><a href="index_files/figure-html/cell-2-output-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://audines.github.io/posts/sgd/index_files/figure-html/cell-2-output-1.png" width="406" height="396" class="figure-img"></a></p>
 </figure>
 </div>
 </div>
@@ -807,7 +807,7 @@ font-style: inherit;">'sgd.png'</span>)</span>
 <p>Next, how do we control the numerical stability of the algorithm? We need to decrease the step size at each iteration which. This is called the <code>rate of decay</code>. We also need a termination factor or <code>tolerance</code> level that determines if we can stop the iteration. Sometimes, for a deep down convex function, the process oscillates back and forth around a range of values. In this case, applying a <code>damping factor</code> increases the chance for a smooth convergence.</p>
 <section id="gradient-descent-gd" class="level3">
 <h3 class="anchored" data-anchor-id="gradient-descent-gd">Gradient Descent (GD)</h3>
-<div id="a75a179c" class="cell" data-execution_count="2">
+<div id="b4cede82" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> numpy <span class="im" style="color: #00769E;
@@ -1330,7 +1330,7 @@ font-style: inherit;">'#f4f4f4'</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><a href="index_files/figure-html/cell-3-output-2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://mrislambd.github.io/posts/sgd/index_files/figure-html/cell-3-output-2.png" width="412" height="396" class="figure-img"></a></p>
+<p><a href="index_files/figure-html/cell-3-output-2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://audines.github.io/posts/sgd/index_files/figure-html/cell-3-output-2.png" width="412" height="396" class="figure-img"></a></p>
 </figure>
 </div>
 </div>
@@ -1364,11 +1364,11 @@ font-style: inherit;">'#f4f4f4'</span>)</span>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1389,11 +1389,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1414,11 +1414,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1448,25 +1448,25 @@ No matching items
   title = {Implementation of {Gradient} {Descent} {(GD)} and
     {Stochastic} {Gradient} {Descent} {(SGD)}},
   date = {2024-09-19},
-  url = {https://mrislambd.github.io/posts/sgd/},
+  url = {https://audines.github.io/posts/sgd/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2024" class="csl-entry quarto-appendix-citeas">
 Islam, Rafiq. 2024. <span>“Implementation of Gradient Descent (GD) and
-Stochastic Gradient Descent (SGD).”</span> September 19, 2024. <a href="https://mrislambd.github.io/posts/sgd/">https://mrislambd.github.io/posts/sgd/</a>.
+Stochastic Gradient Descent (SGD).”</span> September 19, 2024. <a href="https://audines.github.io/posts/sgd/">https://audines.github.io/posts/sgd/</a>.
 </div></div></section></div> ]]></description>
   <category>Data Science</category>
   <category>Machine Learning</category>
   <category>Stochastic Gradient Descent</category>
   <category>Optimization</category>
-  <guid>https://mrislambd.github.io/posts/sgd/</guid>
+  <guid>https://audines.github.io/posts/sgd/</guid>
   <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/sgd/sgd.png" medium="image" type="image/png" height="103" width="144"/>
+  <media:content url="https://audines.github.io/posts/sgd/sgd.png" medium="image" type="image/png" height="103" width="144"/>
 </item>
 <item>
   <title>Internship and Full Time Job Preparation Review</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/jobandintern/</link>
+  <link>https://audines.github.io/posts/jobandintern/</link>
   <description><![CDATA[ 
 
 
@@ -1480,11 +1480,11 @@ Stochastic Gradient Descent (SGD).”</span> September 19, 2024. <a href="https:
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1722124800000" data-listing-file-modified-sort="1737804589653" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1212">
+<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1722124800000" data-listing-file-modified-sort="1737806468218" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1212">
 <a href="../../jobandintern/bayesianinference/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/jobandintern/bayesianinference/pancake.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/jobandintern/bayesianinference/pancake.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1502,11 +1502,11 @@ Sunday, July 28, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTJDU3RhdGlzdGljcw==" data-listing-date-sort="1734480000000" data-listing-file-modified-sort="1737804589654" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3623">
+<div class="g-col-1" data-index="1" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTJDU3RhdGlzdGljcw==" data-listing-date-sort="1734480000000" data-listing-file-modified-sort="1737806468220" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3623">
 <a href="../../jobandintern/correlationandregression/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/jobandintern/correlationandregression/corr.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/jobandintern/correlationandregression/corr.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1524,11 +1524,11 @@ Wednesday, December 18, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="UHJvZ3JhbW1pbmclMkNDb21wdXRlciUyMFNjaWVuY2UlMkNEU0ElMkNBbGdvcml0aG1z" data-listing-date-sort="1726012800000" data-listing-file-modified-sort="1737804589655" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1232">
+<div class="g-col-1" data-index="2" data-categories="UHJvZ3JhbW1pbmclMkNDb21wdXRlciUyMFNjaWVuY2UlMkNEU0ElMkNBbGdvcml0aG1z" data-listing-date-sort="1726012800000" data-listing-file-modified-sort="1737806468221" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1232">
 <a href="../../jobandintern/dsa/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/jobandintern/dsa/dsa.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/jobandintern/dsa/dsa.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1546,11 +1546,11 @@ Wednesday, September 11, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="RGF0YSUyMFNjaWVuY2UlMkNDb21wdXRhdGlvbmFsJTIwTWF0aGVtYXRpY3MlMkNOdW1iZXIlMjBUaGVvcnk=" data-listing-date-sort="1723334400000" data-listing-file-modified-sort="1737804589655" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1964">
+<div class="g-col-1" data-index="3" data-categories="RGF0YSUyMFNjaWVuY2UlMkNDb21wdXRhdGlvbmFsJTIwTWF0aGVtYXRpY3MlMkNOdW1iZXIlMjBUaGVvcnk=" data-listing-date-sort="1723334400000" data-listing-file-modified-sort="1737806468221" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1964">
 <a href="../../jobandintern/montecarlo1/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/jobandintern/montecarlo1/mc1.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/jobandintern/montecarlo1/mc1.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1568,11 +1568,11 @@ Sunday, August 11, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="UHJvZ3JhbW1pbmclMkNGaW5hbmNlJTJDRmluYW5jaWFsJTIwTWF0aGVtYXRpY3MlMkNQcmljaW5nJTJDSGVkZ2luZw==" data-listing-date-sort="1699747200000" data-listing-file-modified-sort="1737804589659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3012">
+<div class="g-col-1" data-index="4" data-categories="UHJvZ3JhbW1pbmclMkNGaW5hbmNlJTJDRmluYW5jaWFsJTIwTWF0aGVtYXRpY3MlMkNQcmljaW5nJTJDSGVkZ2luZw==" data-listing-date-sort="1699747200000" data-listing-file-modified-sort="1737806468225" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3012">
 <a href="../../jobandintern/optionprice/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/jobandintern/optionprice/bsm.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/jobandintern/optionprice/bsm.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1590,11 +1590,11 @@ Sunday, November 12, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="UHJvYmFiaWxpdHklMkNTdGF0aXN0aWNz" data-listing-date-sort="1724284800000" data-listing-file-modified-sort="1737804589659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
+<div class="g-col-1" data-index="5" data-categories="UHJvYmFiaWxpdHklMkNTdGF0aXN0aWNz" data-listing-date-sort="1724284800000" data-listing-file-modified-sort="1737806468225" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
 <a href="../../jobandintern/probability/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/jobandintern/probability/prob.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/jobandintern/probability/prob.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1612,11 +1612,11 @@ Thursday, August 22, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTJDU3RhdGlzdGljcw==" data-listing-date-sort="1725494400000" data-listing-file-modified-sort="1737804589659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="834">
+<div class="g-col-1" data-index="6" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTJDU3RhdGlzdGljcw==" data-listing-date-sort="1725494400000" data-listing-file-modified-sort="1737806468225" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="834">
 <a href="../../jobandintern/statisticaltalk/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/jobandintern/statisticaltalk/stat.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/jobandintern/statisticaltalk/stat.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1634,7 +1634,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1737804589653">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1737806468218">
 <a href="../../jobandintern/.DS_Store" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1647,7 +1647,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1737804589653">
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1737806468219">
 <a href="../../jobandintern/bayesianinference/pancake.jpeg" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1660,7 +1660,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1737804589654">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1737806468219">
 <a href="../../jobandintern/bayesianinference/ven.png" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1673,7 +1673,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1737804589654">
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1737806468220">
 <a href="../../jobandintern/correlationandregression/corr.png" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1686,7 +1686,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1737804589655">
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1737806468221">
 <a href="../../jobandintern/dsa/dsa.jpeg" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1699,7 +1699,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1737804589655">
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1737806468221">
 <a href="../../jobandintern/dsa/ll1.png" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1712,7 +1712,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1737804589656">
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1737806468221">
 <a href="../../jobandintern/montecarlo1/mc1.png" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1725,7 +1725,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1737804589656">
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1737806468222">
 <a href="../../jobandintern/montecarlo1/pi.png" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1738,7 +1738,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1737804589659">
+<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1737806468225">
 <a href="../../jobandintern/optionprice/bsm.png" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1751,7 +1751,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1737804589659">
+<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1737806468225">
 <a href="../../jobandintern/probability/prob.png" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1764,7 +1764,7 @@ Thursday, September 5, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1737804589660">
+<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1737806468225">
 <a href="../../jobandintern/statisticaltalk/stat.jpeg" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -1785,14 +1785,14 @@ No matching items
   <category>Data Science</category>
   <category>Machine Learning</category>
   <category>Artificial Intelligence</category>
-  <guid>https://mrislambd.github.io/posts/jobandintern/</guid>
+  <guid>https://audines.github.io/posts/jobandintern/</guid>
   <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/jobandintern/job.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://audines.github.io/posts/jobandintern/job.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>How to generate social share buttons</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/socialshare/</link>
+  <link>https://audines.github.io/posts/socialshare/</link>
   <description><![CDATA[ 
 
 
@@ -1802,8 +1802,8 @@ No matching items
 <p style="align: justify">
 If you want to share any blog posts on social media, you can have a share button at the bottom of each post so that the reader can easily share this on their preferred social media such as Facebook, LinkedIn, and X. Here I am showing only three but can be added more.
 </p>
-<p><a href="../../posts/socialshare/ss.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="preview-class img-fluid"></a></p>
-<div id="9758806b" class="cell" data-execution_count="1">
+<p><a href="../../posts/socialshare/ss.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://audines.github.io/posts/socialshare/ss.jpg" class="preview-class img-fluid"></a></p>
+<div id="b8ce7dd1" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Library you need</span></span>
@@ -2045,11 +2045,11 @@ data-layout="button_count" data-size="small"&gt;&lt;a target="_blank"
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2070,11 +2070,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2095,11 +2095,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNTdG9jaGFzdGljJTIwR3JhZGllbnQlMjBEZXNjZW50JTJDT3B0aW1pemF0aW9u" data-listing-date-sort="1726704000000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1473">
+<div class="g-col-1" data-index="2" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNTdG9jaGFzdGljJTIwR3JhZGllbnQlMjBEZXNjZW50JTJDT3B0aW1pemF0aW9u" data-listing-date-sort="1726704000000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1473">
 <a href="../../posts/sgd/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/sgd/sgd.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/sgd/sgd.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2128,24 +2128,24 @@ No matching items
   author = {Islam, Rafiq},
   title = {How to Generate Social Share Buttons},
   date = {2024-07-17},
-  url = {https://mrislambd.github.io/posts/socialshare/},
+  url = {https://audines.github.io/posts/socialshare/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2024" class="csl-entry quarto-appendix-citeas">
 Islam, Rafiq. 2024. <span>“How to Generate Social Share Buttons.”</span>
-July 17, 2024. <a href="https://mrislambd.github.io/posts/socialshare/">https://mrislambd.github.io/posts/socialshare/</a>.
+July 17, 2024. <a href="https://audines.github.io/posts/socialshare/">https://audines.github.io/posts/socialshare/</a>.
 </div></div></section></div> ]]></description>
   <category>News</category>
   <category>Technology</category>
   <category>Website</category>
-  <guid>https://mrislambd.github.io/posts/socialshare/</guid>
+  <guid>https://audines.github.io/posts/socialshare/</guid>
   <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/socialshare/ss.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://audines.github.io/posts/socialshare/ss.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome to my blog</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/welcome/</link>
+  <link>https://audines.github.io/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -2153,7 +2153,7 @@ July 17, 2024. <a href="https://mrislambd.github.io/posts/socialshare/">https://
 
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878992848042528" crossorigin="anonymous"></script>
 <p>Here is a demo picture</p>
-<p><a href="../../posts/welcome/ada.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://mrislambd.github.io/posts/welcome/ada.png" class="preview-class img-fluid"></a></p>
+<p><a href="../../posts/welcome/ada.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://audines.github.io/posts/welcome/ada.png" class="preview-class img-fluid"></a></p>
 <div id="fb-root">
 
 </div>
@@ -2184,11 +2184,11 @@ July 17, 2024. <a href="https://mrislambd.github.io/posts/socialshare/">https://
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2209,11 +2209,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2234,11 +2234,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2267,21 +2267,21 @@ No matching items
   author = {Islam, Rafiq},
   title = {Welcome to My Blog},
   date = {2024-07-12},
-  url = {https://mrislambd.github.io/posts/welcome/},
+  url = {https://audines.github.io/posts/welcome/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2024" class="csl-entry quarto-appendix-citeas">
-Islam, Rafiq. 2024. <span>“Welcome to My Blog.”</span> July 12, 2024. <a href="https://mrislambd.github.io/posts/welcome/">https://mrislambd.github.io/posts/welcome/</a>.
+Islam, Rafiq. 2024. <span>“Welcome to My Blog.”</span> July 12, 2024. <a href="https://audines.github.io/posts/welcome/">https://audines.github.io/posts/welcome/</a>.
 </div></div></section></div> ]]></description>
   <category>News</category>
-  <guid>https://mrislambd.github.io/posts/welcome/</guid>
+  <guid>https://audines.github.io/posts/welcome/</guid>
   <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/welcome/ada.png" medium="image" type="image/png" height="104" width="144"/>
+  <media:content url="https://audines.github.io/posts/welcome/ada.png" medium="image" type="image/png" height="104" width="144"/>
 </item>
 <item>
   <title>Matrix multiplication: Let’s make it less expensive!</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/matmul/</link>
+  <link>https://audines.github.io/posts/matmul/</link>
   <description><![CDATA[ 
 
 
@@ -2289,7 +2289,7 @@ Islam, Rafiq. 2024. <span>“Welcome to My Blog.”</span> July 12, 2024. <a hre
 
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878992848042528" crossorigin="anonymous"></script>
 <p>Have you ever wondered why your code takes forever to run? Sometimes a simple code may take significant time because of an inefficient implementation approach. Let’s take a simple example of matrix multiplication, and explore the time and space complexity, specifically focusing on multiplying matrices where one of the matrices is formed as an outer product of a vector with itself.</p>
-<p><img src="https://mrislambd.github.io/posts/matmul/matmul.jpeg" width="300" height="300"></p>
+<p><img src="https://audines.github.io/posts/matmul/matmul.jpeg" width="300" height="300"></p>
 <p>Matrix multiplication is a fundamental operation in many areas such as computer graphics, machine learning, and scientific computing. Given two matrices <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7BA%7D"> and <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7BB%7D">, the product <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7BAB%7D"> or <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7BBA%7D"> is a new matrix where each element is computed as the dot product of the corresponding row of <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7BA%7D"> and the column of <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7BB%7D"> or the other way around.</p>
 <p>Consider the scenario where <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7BA%7D"> is an outer product of a column vector <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%7Ba%7D"> with itself, i.e.,</p>
 <p><img src="https://latex.codecogs.com/png.latex?%5Cbegin%7Balign*%7D%0A%5Cmathbf%7BA%7D=%5Cmathbf%7Ba%7D%20%5Cmathbf%7Ba%7D%5ET&amp;=%5Cbegin%7Bpmatrix%7Da_1%5C%5Ca_2%5C%5C%5Cvdots%20%5C%5Ca_n%5Cend%7Bpmatrix%7D%5Cbegin%7Bpmatrix%7Da_1&amp;a_2&amp;%5Ccdots%20&amp;a_n%5Cend%7Bpmatrix%7D%5C%5C%0A&amp;=%5Cbegin%7Bpmatrix%7D%0Aa_1a_1%20&amp;%20a_1a_2&amp;%20%5Ccdots%20&amp;a_1a_n%5C%5C%0Aa_2a_1&amp;%20a_2a_2&amp;%5Ccdots%20&amp;a_2a_n%5C%5C%0A%5Cvdots%20&amp;%20%5Cvdots%20&amp;%20%5Cddots%20&amp;%20%5Cvdots%20%5C%5C%0Aa_na_1%20&amp;%20a_na_2%20&amp;%5Ccdots&amp;%20a_na_n%5Cend%7Bpmatrix%7D%5C%5C%0A%5Cend%7Balign*%7D%0A"></p>
@@ -2510,11 +2510,11 @@ font-style: inherit;">0.001841</span> seconds</span></code></pre></div>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2535,11 +2535,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2560,11 +2560,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -2593,25 +2593,25 @@ No matching items
   author = {Islam, Rafiq},
   title = {Matrix Multiplication: {Let’s} Make It Less Expensive!},
   date = {2024-07-01},
-  url = {https://mrislambd.github.io/posts/matmul/},
+  url = {https://audines.github.io/posts/matmul/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2024" class="csl-entry quarto-appendix-citeas">
 Islam, Rafiq. 2024. <span>“Matrix Multiplication: Let’s Make It Less
-Expensive!”</span> July 1, 2024. <a href="https://mrislambd.github.io/posts/matmul/">https://mrislambd.github.io/posts/matmul/</a>.
+Expensive!”</span> July 1, 2024. <a href="https://audines.github.io/posts/matmul/">https://audines.github.io/posts/matmul/</a>.
 </div></div></section></div> ]]></description>
   <category>Data Science</category>
   <category>Machine Learning</category>
   <category>Computational Mathematics</category>
   <category>Algorithmic Complexity</category>
-  <guid>https://mrislambd.github.io/posts/matmul/</guid>
+  <guid>https://audines.github.io/posts/matmul/</guid>
   <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/matmul/matmul.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://audines.github.io/posts/matmul/matmul.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>LU Factorization of a Full rank Matrix using Fortran</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/lu/</link>
+  <link>https://audines.github.io/posts/lu/</link>
   <description><![CDATA[ 
 
 
@@ -3443,11 +3443,11 @@ c
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3468,11 +3468,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3493,11 +3493,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3526,12 +3526,12 @@ No matching items
   author = {Islam, Rafiq},
   title = {LU {Factorization} of a {Full} Rank {Matrix} Using {Fortran}},
   date = {2021-11-09},
-  url = {https://mrislambd.github.io/posts/lu/},
+  url = {https://audines.github.io/posts/lu/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2021" class="csl-entry quarto-appendix-citeas">
 Islam, Rafiq. 2021. <span>“LU Factorization of a Full Rank Matrix Using
-Fortran.”</span> November 9, 2021. <a href="https://mrislambd.github.io/posts/lu/">https://mrislambd.github.io/posts/lu/</a>.
+Fortran.”</span> November 9, 2021. <a href="https://audines.github.io/posts/lu/">https://audines.github.io/posts/lu/</a>.
 </div></div></section></div> ]]></description>
   <category>Data Science</category>
   <category>Machine Learning</category>
@@ -3539,14 +3539,14 @@ Fortran.”</span> November 9, 2021. <a href="https://mrislambd.github.io/posts/
   <category>Algorithmic Complexity</category>
   <category>Programming</category>
   <category>Computer Science</category>
-  <guid>https://mrislambd.github.io/posts/lu/</guid>
+  <guid>https://audines.github.io/posts/lu/</guid>
   <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/lu/lu.png" medium="image" type="image/png" height="108" width="144"/>
+  <media:content url="https://audines.github.io/posts/lu/lu.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
   <title>Modeling viral disease</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/mathbiology/</link>
+  <link>https://audines.github.io/posts/mathbiology/</link>
   <description><![CDATA[ 
 
 
@@ -3569,7 +3569,7 @@ Fortran.”</span> November 9, 2021. <a href="https://mrislambd.github.io/posts/
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="b1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Photo"><img src="https://mrislambd.github.io/posts/mathbiology/b1.png" class="img-fluid figure-img" alt="Photo"></a></p>
+<p><a href="b1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Photo"><img src="https://audines.github.io/posts/mathbiology/b1.png" class="img-fluid figure-img" alt="Photo"></a></p>
 <figcaption>Photo</figcaption>
 </figure>
 </div>
@@ -3582,7 +3582,7 @@ Fortran.”</span> November 9, 2021. <a href="https://mrislambd.github.io/posts/
 <p>Now, <img src="https://latex.codecogs.com/png.latex?f'(0)=kN%3E0"> therefore, <img src="https://latex.codecogs.com/png.latex?X=0"> is an unstable equilibrium. And <img src="https://latex.codecogs.com/png.latex?f'(N)=kN-2kN=-kN%3C0"> since <img src="https://latex.codecogs.com/png.latex?k,%20N%3E0">. So, <img src="https://latex.codecogs.com/png.latex?X=N"> is a stable equilibrium.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="b2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="equilibrium"><img src="https://mrislambd.github.io/posts/mathbiology/b2.png" class="img-fluid figure-img" alt="equilibrium"></a></p>
+<p><a href="b2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="equilibrium"><img src="https://audines.github.io/posts/mathbiology/b2.png" class="img-fluid figure-img" alt="equilibrium"></a></p>
 <figcaption>equilibrium</figcaption>
 </figure>
 </div>
@@ -3664,11 +3664,11 @@ So, <img src="https://latex.codecogs.com/png.latex?X(12)%5Capprox%204945"></p>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3689,11 +3689,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3714,11 +3714,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3747,24 +3747,24 @@ No matching items
   author = {Islam, Rafiq},
   title = {Modeling Viral Disease},
   date = {2021-02-23},
-  url = {https://mrislambd.github.io/posts/mathbiology/},
+  url = {https://audines.github.io/posts/mathbiology/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2021" class="csl-entry quarto-appendix-citeas">
 Islam, Rafiq. 2021. <span>“Modeling Viral Disease.”</span> February 23,
-2021. <a href="https://mrislambd.github.io/posts/mathbiology/">https://mrislambd.github.io/posts/mathbiology/</a>.
+2021. <a href="https://audines.github.io/posts/mathbiology/">https://audines.github.io/posts/mathbiology/</a>.
 </div></div></section></div> ]]></description>
   <category>Applied Mathematics</category>
   <category>Math Biology</category>
   <category>Mathematical Modeling</category>
-  <guid>https://mrislambd.github.io/posts/mathbiology/</guid>
+  <guid>https://audines.github.io/posts/mathbiology/</guid>
   <pubDate>Tue, 23 Feb 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/mathbiology/b1.png" medium="image" type="image/png" height="89" width="144"/>
+  <media:content url="https://audines.github.io/posts/mathbiology/b1.png" medium="image" type="image/png" height="89" width="144"/>
 </item>
 <item>
   <title>Generalized eigenvectors and eigenspaces</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/eigen/</link>
+  <link>https://audines.github.io/posts/eigen/</link>
   <description><![CDATA[ 
 
 
@@ -3865,11 +3865,11 @@ Hence, <img src="https://latex.codecogs.com/png.latex?%5C%7Bv,(%5Calpha-%5Clambd
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3890,11 +3890,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="1" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3915,11 +3915,11 @@ Wednesday, July 17, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNTdG9jaGFzdGljJTIwR3JhZGllbnQlMjBEZXNjZW50JTJDT3B0aW1pemF0aW9u" data-listing-date-sort="1726704000000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1473">
+<div class="g-col-1" data-index="2" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNTdG9jaGFzdGljJTIwR3JhZGllbnQlMjBEZXNjZW50JTJDT3B0aW1pemF0aW9u" data-listing-date-sort="1726704000000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1473">
 <a href="../../posts/sgd/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/sgd/sgd.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/sgd/sgd.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -3948,23 +3948,23 @@ No matching items
   author = {Islam, Rafiq},
   title = {Generalized Eigenvectors and Eigenspaces},
   date = {2021-01-25},
-  url = {https://mrislambd.github.io/posts/eigen/},
+  url = {https://audines.github.io/posts/eigen/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2021" class="csl-entry quarto-appendix-citeas">
 Islam, Rafiq. 2021. <span>“Generalized Eigenvectors and
-Eigenspaces.”</span> January 25, 2021. <a href="https://mrislambd.github.io/posts/eigen/">https://mrislambd.github.io/posts/eigen/</a>.
+Eigenspaces.”</span> January 25, 2021. <a href="https://audines.github.io/posts/eigen/">https://audines.github.io/posts/eigen/</a>.
 </div></div></section></div> ]]></description>
   <category>Linear Algebra</category>
   <category>Mathematics</category>
-  <guid>https://mrislambd.github.io/posts/eigen/</guid>
+  <guid>https://audines.github.io/posts/eigen/</guid>
   <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/eigen/lin3.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://audines.github.io/posts/eigen/lin3.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title></title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/someproofs/</link>
+  <link>https://audines.github.io/posts/someproofs/</link>
   <description><![CDATA[ <div class="quarto-title-block"><div class="quarto-title-tools-only"><h1></h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
 
 
@@ -4264,11 +4264,11 @@ Now,
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -4289,11 +4289,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -4314,11 +4314,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -4346,22 +4346,22 @@ No matching items
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{islam2021,
   author = {Islam, Rafiq},
   date = {2021-01-24},
-  url = {https://mrislambd.github.io/posts/someproofs/},
+  url = {https://audines.github.io/posts/someproofs/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2021" class="csl-entry quarto-appendix-citeas">
-Islam, Rafiq. 2021. January 24, 2021. <a href="https://mrislambd.github.io/posts/someproofs/">https://mrislambd.github.io/posts/someproofs/</a>.
+Islam, Rafiq. 2021. January 24, 2021. <a href="https://audines.github.io/posts/someproofs/">https://audines.github.io/posts/someproofs/</a>.
 </div></div></section></div> ]]></description>
   <category>Linear Algebra</category>
   <category>Mathematics</category>
-  <guid>https://mrislambd.github.io/posts/someproofs/</guid>
+  <guid>https://audines.github.io/posts/someproofs/</guid>
   <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/someproofs/lin1.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://audines.github.io/posts/someproofs/lin1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Matrix Representation: Change of Basis</title>
   <dc:creator>Rafiq Islam</dc:creator>
-  <link>https://mrislambd.github.io/posts/matrixrep/</link>
+  <link>https://audines.github.io/posts/matrixrep/</link>
   <description><![CDATA[ 
 
 
@@ -4556,11 +4556,11 @@ and
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737804589687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMFNjaWVuY2UlMkNNYWNoaW5lJTIwTGVhcm5pbmclMkNBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNl" data-listing-date-sort="1726790400000" data-listing-file-modified-sort="1737806468253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <a href="../../posts/machinelearning/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/machinelearning/ml.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -4581,11 +4581,11 @@ Friday, September 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737804589678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
+<div class="g-col-1" data-index="1" data-categories="TGluZWFyJTIwQWxnZWJyYSUyQ01hdGhlbWF0aWNz" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1737806468244" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
 <a href="../../posts/eigen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/eigen/lin3.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -4606,11 +4606,11 @@ Monday, January 25, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737804589700" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<div class="g-col-1" data-index="2" data-categories="TmV3cyUyQ1RlY2hub2xvZ3klMkNXZWJzaXRl" data-listing-date-sort="1721174400000" data-listing-file-modified-sort="1737806468266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
 <a href="../../posts/socialshare/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://mrislambd.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://audines.github.io/posts/socialshare/ss.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -4639,18 +4639,18 @@ No matching items
   author = {Islam, Rafiq},
   title = {Matrix {Representation:} {Change} of {Basis}},
   date = {2021-01-21},
-  url = {https://mrislambd.github.io/posts/matrixrep/},
+  url = {https://audines.github.io/posts/matrixrep/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-islam2021" class="csl-entry quarto-appendix-citeas">
 Islam, Rafiq. 2021. <span>“Matrix Representation: Change of
-Basis.”</span> January 21, 2021. <a href="https://mrislambd.github.io/posts/matrixrep/">https://mrislambd.github.io/posts/matrixrep/</a>.
+Basis.”</span> January 21, 2021. <a href="https://audines.github.io/posts/matrixrep/">https://audines.github.io/posts/matrixrep/</a>.
 </div></div></section></div> ]]></description>
   <category>Linear Algebra</category>
   <category>Mathematics</category>
-  <guid>https://mrislambd.github.io/posts/matrixrep/</guid>
+  <guid>https://audines.github.io/posts/matrixrep/</guid>
   <pubDate>Thu, 21 Jan 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://mrislambd.github.io/posts/matrixrep/lin2.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://audines.github.io/posts/matrixrep/lin2.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
