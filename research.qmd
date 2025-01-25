@@ -14,16 +14,12 @@ listing:
 ## Current Research  
 
 - Machine Learning in Finance
-  
-
 
 ## Research Interest 
-
 - Applied Data Science
 - Financial Mathematics
 
 ## Publications
-
 
 ```{=html}
 <table>
@@ -44,9 +40,9 @@ listing:
 ```
 
 
-## Course Projects  
+## Students supervisions 
 
-- <a href="https://www.academia.edu/13322836/Study_of_Runge_Kutta_Method_of_Higher_orders_and_its_Applications" target="_blank" style="text-decoration:none">Study of Runge-Kutta Method of Higher orders and its Applications</a>  
+- <a href="s" target="_blank" style="text-decoration:none">s</a>  
   Advisor: <a href="" target="_blank" style="text-decoration:none">Dr. </a>
 
   <div style="text-align: justify">
