@@ -9,7 +9,7 @@
 <meta name="author" content="Rafiq Islam">
 <meta name="dcterms.date" content="2024-09-23">
 
-<title>Model Fine Tuning: Bias-Variance Trade Off – Aude Ines Mbonda Tiekwe</title>
+<title>Model Fine Tuning: Bias-Variance Trade Off – Aude Inès Mbonda Tiekwe</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -182,13 +182,13 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Model Fine Tuning: Bias-Variance Trade Off – Aude Ines Mbonda Tiekwe">
+<meta property="og:title" content="Model Fine Tuning: Bias-Variance Trade Off – Aude Inès Mbonda Tiekwe">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://audines.github.io/dsandml/biasvariance/bv.png">
-<meta property="og:site_name" content="Aude Ines Mbonda Tiekwe">
+<meta property="og:site_name" content="Aude Inès Mbonda Tiekwe">
 <meta property="og:image:height" content="528">
 <meta property="og:image:width" content="787">
-<meta name="twitter:title" content="Model Fine Tuning: Bias-Variance Trade Off – Aude Ines Mbonda Tiekwe">
+<meta name="twitter:title" content="Model Fine Tuning: Bias-Variance Trade Off – Aude Inès Mbonda Tiekwe">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://audines.github.io/dsandml/biasvariance/bv.png">
 <meta name="twitter:image-height" content="528">
@@ -207,7 +207,7 @@ window.Quarto = {
     <img src="../../_assets/images/fsu-logo.png" alt="Stellenbosch University" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="../../dsandml/biasvariance/index.html">
-    <span class="navbar-title">Aude Ines Mbonda Tiekwe</span>
+    <span class="navbar-title">Aude Inès Mbonda Tiekwe</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -239,20 +239,20 @@ window.Quarto = {
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-blog">    
         <li>
     <a class="dropdown-item" href="../../posts/machinelearning/index.html">
- <span class="dropdown-text">Data Science and Machine Learning</span></a>
+ <span class="dropdown-text">Basics Statistics</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../posts/jobandintern/index.html">
- <span class="dropdown-text">Job and Intern</span></a>
+ <span class="dropdown-text">Career in Statistics</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../blog.html">
- <span class="dropdown-text">All Other Blogs</span></a>
+ <span class="dropdown-text">From PhD to Industry</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/mohammad-rafiqul-islam/" target="_blank"> <i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/inesmbonda/" target="_blank"> <i class="bi bi-linkedin" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -380,7 +380,7 @@ where <span class="math inline">\(y = f(x) + \epsilon\)</span>, and <span class=
 <ul>
 <li>A <strong>high bias</strong> model makes strong assumptions about the data and fails to capture the underlying patterns, resulting in underfitting.</li>
 </ul>
-<div id="c0ad6ded" class="cell" data-execution_count="1">
+<div id="18e84c86" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>np.random.seed(<span class="dv">0</span>)</span>
@@ -411,7 +411,7 @@ where <span class="math inline">\(y = f(x) + \epsilon\)</span>, and <span class=
 <ul>
 <li>A <strong>high variance</strong> model is highly flexible, capturing not only the signal but also the noise in the data, leading to overfitting.</li>
 </ul>
-<div id="ca724d89" class="cell" data-execution_count="2">
+<div id="8249e630" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.tree <span class="im">import</span> DecisionTreeRegressor</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>model2 <span class="op">=</span> DecisionTreeRegressor(max_depth<span class="op">=</span><span class="dv">10</span>)</span>
@@ -443,7 +443,7 @@ where <span class="math inline">\(y = f(x) + \epsilon\)</span>, and <span class=
 <section id="more-visualization-of-bias-variance-tradeoff" class="level2">
 <h2 class="anchored" data-anchor-id="more-visualization-of-bias-variance-tradeoff">More Visualization of Bias-Variance Tradeoff</h2>
 <p>Now let’s use Python to visualize the bias-variance tradeoff by generating models of varying complexity on a synthetic dataset.</p>
-<div id="dc824ebe" class="cell" data-execution_count="3">
+<div id="bde34b3d" class="cell" data-execution_count="3">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.preprocessing <span class="im">import</span> PolynomialFeatures</span>
@@ -550,7 +550,7 @@ The bias-variance tradeoff is a crucial concept for building machine learning mo
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1729555200000" data-listing-file-modified-sort="1737806468135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2300">
+<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1729555200000" data-listing-file-modified-sort="1737807607811" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2300">
 <a href="../../dsandml/bayesianclassification/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -575,7 +575,7 @@ Tuesday, October 22, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1733097600000" data-listing-file-modified-sort="1737806468135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
+<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMFNjaWVuY2UlMkNCYXllc2lhbiUyMEluZmVyZW5jZSUyQ0JheWVzaWFuJTIwU3RhdGlzdGljcyUyQ1N0YXRpc3RpY3M=" data-listing-date-sort="1733097600000" data-listing-file-modified-sort="1737807607811" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
 <a href="../../dsandml/adaboost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -600,7 +600,7 @@ Monday, December 2, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="U3RhdGlzdGljcyUyQ0RhdGElMjBTY2llbmNlJTJDRGF0YSUyMEVuZ2luZWVyaW5nJTJDTWFjaGluZSUyMExlYXJuaW5nJTJDQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZQ==" data-listing-date-sort="1728518400000" data-listing-file-modified-sort="1737806468205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
+<div class="g-col-1" data-index="2" data-categories="U3RhdGlzdGljcyUyQ0RhdGElMjBTY2llbmNlJTJDRGF0YSUyMEVuZ2luZWVyaW5nJTJDTWFjaGluZSUyMExlYXJuaW5nJTJDQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZQ==" data-listing-date-sort="1728518400000" data-listing-file-modified-sort="1737807607882" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
 <a href="../../dsandml/naivebayes/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="../bayesianclassification/Bayeslearn.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -1501,7 +1501,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Copyright 2025 @ Aude Ines Mbonda
+ Copyright 2025 @ Aude Inès Mbonda
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="../../license.txt">
@@ -1525,7 +1525,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="mailto:ines@aims.ac.za?subject&amp;body" target="_blank">
+    <a class="nav-link" href="mailto:ines@aims.edu.gh?subject&amp;body" target="_blank">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>
