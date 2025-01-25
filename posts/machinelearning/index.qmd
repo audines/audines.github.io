@@ -1,8 +1,8 @@
 ---
-title: "Data Science & Machine Learning Basics"
-date: "2024-09-20"
-author: Rafiq Islam
-categories: [Data Science, Machine Learning, Artificial Intelligence]
+title: "Statistics, Data Science & Machine Learning Basics"
+date: "2025-01-25"
+author: Aude Ines
+categories: [Statistics, Data Science, Machine Learning]
 search: true
 lightbox: true
 image: ml.jpeg
@@ -20,7 +20,7 @@ listing:
 </p>
 
 <p style="text-align: justify">
-    This page is my personal repository of most common and useful machine learning algorithms using Python and other data science tricks and tips.
+    This page is my personal repository.
 </p>  
 
 
