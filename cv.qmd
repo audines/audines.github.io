@@ -62,19 +62,17 @@ cv:
 
 ## Publications
 
-- <a href="/publication/pub3/index.qmd" target="_blank" style="text-decoration:none">Generalized EXTRA stochastic gradient Langevin dynamics</a>  
 
 
   
 ## Talks and Presentations  
 
-- <a href="/talks/2023-11-20-candi.qmd" style="text-decoration:none"> The Heavy-Tail Phenomenon in Decentralized Stochastic Gradient Descent</a>  
+- <a href="/talks/2023-11-20-candi.qmd" style="text-decoration:none"> The </a>  
   November 20, 2023  
 
   
 ## Teaching
 
-  - <a href="/teaching/sp25.qmd" style="text-decoration:none"> Spring 2025: MAC2311 Calculus and Analytic Geometry I</a> 
  
 ## Awards and Affiliations
 ### Awards  
