@@ -75,9 +75,7 @@ adsense:
   publisher-id: ca-pub-6878992848042528
 filters:
   - adsense
-  - quarto-version.lua
-
-  
+  - quarto-version.lua  
 format:
   html:
     theme: 
