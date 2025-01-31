@@ -6,7 +6,7 @@
 <p style="text-align: justify"><img align="right" src='/_assets/images/profile.png' class='oval-image' alt='Profile Picture' style='align-right; margin-left: 25px; margin-bottom: 10px;'><br>
 
     Post Doctoral Researcher  
-    <a href='https://fsu.edu' target='_blank' style='text-decoration:none'>Stellenbosch University</a><br>
+    <a href='http://www.sun.ac.za/english' target='_blank' style='text-decoration:none'>Stellenbosch University</a><br>
     <br>
     <span style='font-size: 1.1em; font-weight: bold; margin-top: 50px; margin-bottom: 50px;'>Contact</span>  
     Email: <a href="mailto:ines@aims.ac.za" style="text-decoration:none"> ines@aims.ac.za</a>  
