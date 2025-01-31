@@ -6,8 +6,7 @@ listing:
   filter-ui: false
   sort-ui: false
   fields: [date,title]
----  
-
+--- 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878992848042528"
      crossorigin="anonymous"></script>  
 
@@ -40,12 +39,21 @@ listing:
 ```
 
 
-## Students supervisions 
+## Students co-supervisions 
 
 - <a href="s" target="_blank" style="text-decoration:none">s</a>  
   Advisor: <a href="" target="_blank" style="text-decoration:none">Dr. </a>
 
   <div style="text-align: justify">
+
+
+Sharon Maritim Chepkemoi. " Stochastic models of interest rates: A comparative study of Vasicek’s
+and the Cox-Ingersoll-Ross models applied to the recent ECB data ". Master thesis, African Institute
+for Mathematical Sciences.
+– Elivin Nyanchama Akama . "A comparative study of analytical and computational methods of cumulative
+risk calculation". Master thesis, African Institute for Mathematical Sciences.
+– Promise Mathebula. "Variable Annuities with GMDB and GMIB: Generating Datasets of Pricing
+Parameters ". Master thesis, African Institute for Mathematical Sciences.
     This project is concerned with the study 
   </div>
 
