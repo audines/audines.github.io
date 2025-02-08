@@ -8531,7 +8531,7 @@ h1, h2, h3, h4, h5,
                 padding-right: 3em; } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           color: #000000;
-          font-weight: 700;
+          font-weight: 600;
           font-size: 14px;
           letter-spacing: 3px;
           text-transform: uppercase;
@@ -8545,7 +8545,7 @@ h1, h2, h3, h4, h5,
           line-height: 1.2;
           font-weight: 800; }
           .owl-carousel.home-slider .slider-item .slider-text h1 span {
-            font-weight:700;
+            font-weight:800;
             color: #ffbd39; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
